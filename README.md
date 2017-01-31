@@ -1,4 +1,4 @@
 Tic-tac-toe
 ===========
 
-opnchaudharyPlusCipherX 
+A tic-tac-toe game built on C++!
